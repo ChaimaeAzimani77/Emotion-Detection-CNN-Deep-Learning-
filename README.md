@@ -128,15 +128,6 @@ ImageDataGenerator(
   <img src="Images/3.png" width="750"/>
 </p>
 
-## 📊 Résultats
-
-### Courbes Accuracy & Loss
-
-<p align="center">
-  <img src="Images/5.png" width="750"/>
-</p>
-
-> 📌 Les courbes montrent une bonne convergence du modèle et une réduction progressive de la loss.
 
 ### 🎯 Évaluation Finale sur données de Test
 
